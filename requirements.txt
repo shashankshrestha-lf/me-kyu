@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+gradio
+ortools
+torch
+scikit-learn
+python-docx

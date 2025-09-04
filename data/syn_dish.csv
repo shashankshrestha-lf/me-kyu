@@ -1,0 +1,56 @@
+DishID,DishName,Category,Ingredients,Calories,Protein,Carbs,Fat,Calcium,Iron,VitaminC,Allergens,Price,Season,PopularityScore,MEXT_Compliance,PreparationType
+M0001,Grilled Salmon with Rice,main,"salmon (80g), steamed rice (150g), soy sauce (5g)",320,20.5,42.0,8.5,12,0.8,0,fish,180,Spring,9,1,On-site
+M0002,Chicken Teriyaki,main,"chicken thigh (100g), soy sauce (10g), mirin (10g), sugar (5g)",250,20.0,10.0,12.0,15,1.0,0,soy,200,All,10,1,On-site
+M0003,Beef Curry with Rice,main,"beef (80g), curry roux (20g), potato (50g), carrot (30g), onion (50g), steamed rice (200g)",600,22.0,90.0,15.0,40,2.5,8,wheat,250,Winter,10,1,On-site
+M0004,Oyako Donburi,main,"chicken (80g), egg (50g), onion (30g), soy sauce (10g), steamed rice (200g)",520,25.0,70.0,12.0,38,2.0,0,egg,220,All,9,1,On-site
+M0005,Yakisoba,main,"wheat noodles (150g), cabbage (50g), pork (40g), yakisoba sauce (15g)",420,14.0,62.0,12.0,25,1.5,8,wheat,180,Summer,8,1,CK
+M0006,Shoyu Ramen,main,"ramen noodles (150g), pork slices (40g), soy sauce broth (250ml), nori (3g)",450,16.0,65.0,14.0,22,1.8,0,wheat,200,Winter,9,1,On-site
+M0007,Grilled Mackerel,main,"mackerel (90g), salt (2g)",210,19.0,0,14.0,12,1.2,0,fish,180,Autumn,9,1,On-site
+M0008,Chicken Katsu,main,"chicken breast (100g), panko (20g), egg (20g), frying oil (10g)",370,24.0,15.0,18.0,20,1.2,0,wheat,200,All,10,1,On-site
+M0009,Tofu Steak with Vegetables,main,"tofu (100g), soy sauce (10g), carrot (30g), spinach (30g)",190,12.0,10.0,10.0,80,2.0,15,soy,150,Spring,7,1,On-site
+M0010,Chirashi Sushi,main,"vinegared rice (150g), salmon sashimi (30g), egg strips (20g), cucumber (20g)",280,12.0,48.0,6.0,30,1.0,5,fish,200,Spring,9,1,On-site
+M0011,Shogayaki Pork,main,"pork slices (100g), ginger (5g), soy sauce (10g), mirin (10g)",280,20.0,8.0,16.0,15,1.0,0,soy,190,All,8,1,On-site
+M0012,Saba Miso-ni,main,"mackerel (90g), miso paste (15g), sugar (5g), sake (10g)",250,18.0,6.0,15.0,20,1.2,0,fish,180,Winter,8,1,On-site
+M0013,Vegetable Fried Rice,main,"rice (150g), carrot (20g), peas (20g), egg (30g), soy sauce (5g)",330,10.0,55.0,8.0,25,1.0,3,egg,150,All,9,1,CK
+M0014,Hamburg Steak,main,"ground beef (80g), onion (20g), panko (10g), ketchup (10g)",310,18.0,12.0,18.0,18,1.4,2,wheat,200,All,10,1,On-site
+M0015,Nikujaga,main,"beef slices (60g), potato (80g), onion (40g), soy sauce (10g)",250,14.0,25.0,9.0,20,1.0,4,soy,150,Winter,8,1,On-site
+M0016,Katsudon,main,"pork cutlet (80g), egg (50g), onion (30g), rice (200g)",540,24.0,70.0,16.0,38,1.5,0,wheat,220,All,9,1,On-site
+M0017,Udon with Tempura,main,"udon noodles (150g), shrimp tempura (40g), tsuyu broth (250ml)",480,14.0,70.0,14.0,25,1.0,0,wheat,200,All,9,1,On-site
+M0018,Sukiyaki,main,"beef (60g), tofu (50g), napa cabbage (50g), shirataki noodles (30g), soy sauce (10g)",320,18.0,18.0,14.0,80,1.5,5,soy,220,Winter,9,1,On-site
+M0019,Grilled Horse Mackerel,main,"horse mackerel (80g), salt (2g)",200,18.0,0,12.0,10,1.0,0,fish,180,Spring,8,1,On-site
+M0020,Omu Rice,main,"egg (60g), ketchup rice (150g), chicken (40g)",380,16.0,50.0,12.0,30,1.2,5,egg,180,All,10,1,CK
+S0001,Spinach Goma-ae,side,"spinach (80g), sesame seeds (10g), soy sauce (5g)",90,4.0,6.0,5.0,120,2.0,15,soy,55,Spring,7,1,CK
+S0002,Potato Salad,side,"potato (100g), cucumber (30g), carrot (20g), mayonnaise (15g)",150,3.0,20.0,6.0,12,0.5,5,egg,80,Summer,8,1,CK
+S0003,Pickled Daikon,side,"daikon radish (50g), vinegar (10g), sugar (5g)",25,0.5,5.0,0.1,5,0.2,2,None,30,Winter,6,1,On-site
+S0004,Edamame,side,"edamame (80g), salt (2g)",110,9.0,8.0,4.0,60,2.0,8,soy,60,Summer,8,1,On-site
+S0005,Kinpira Gobo,side,"burdock root (60g), carrot (30g), soy sauce (5g), sesame oil (5g)",90,2.0,10.0,5.0,25,0.8,2,soy,70,Spring,7,1,CK
+S0006,Nimono Vegetables,side,"carrot (30g), daikon (40g), lotus root (30g), soy sauce (5g)",80,2.0,15.0,1.0,20,0.6,3,soy,65,Autumn,8,1,On-site
+S0007,Hiijiki Salad,side,"hijiki seaweed (10g), carrot (30g), soybeans (30g), soy sauce (5g)",85,5.0,8.0,3.0,60,1.5,5,soy,60,Autumn,8,1,On-site
+S0008,Cold Tofu,side,"tofu (100g), soy sauce (5g), green onion (5g)",90,8.0,4.0,5.0,80,1.2,1,soy,50,Summer,9,1,On-site
+S0009,Boiled Broccoli,side,"broccoli (80g), salt (1g)",35,3.0,6.0,0.5,40,0.6,40,None,40,Winter,7,1,On-site
+S0010,Sunomono,side,"cucumber (50g), wakame (5g), vinegar (10g)",25,0.5,5.0,0.1,5,0.2,3,None,35,Summer,7,1,On-site
+S0011,Lotus Root Chips,side,"lotus root (50g), frying oil (10g), salt (1g)",120,2.0,15.0,6.0,10,0.5,1,None,50,Autumn,8,1,CK
+S0012,Steamed Pumpkin,side,"pumpkin (80g), soy sauce (3g)",70,2.0,15.0,0.5,20,0.6,16,soy,45,Autumn,7,1,On-site
+S0013,Okra with Bonito Flakes,side,"okra (50g), bonito flakes (2g), soy sauce (3g)",35,2.0,4.0,0.2,20,0.4,4,fish,40,Summer,7,1,On-site
+S0014,Japanese Pickles,side,"cabbage (40g), cucumber (30g), salt (2g)",20,1.0,3.0,0.1,10,0.3,1,None,30,All,6,1,On-site
+S0015,Marinated Tomato,side,"tomato (50g), vinegar (5g), sugar (3g)",25,0.5,4.0,0.1,5,0.2,8,None,35,Summer,7,1,On-site
+S0016,Green Bean Salad,side,"green beans (50g), sesame dressing (10g)",60,2.0,6.0,3.0,25,0.4,5,soy,45,Summer,7,1,CK
+S0017,Sweet Potato Wedges,side,"sweet potato (80g), olive oil (5g)",110,2.0,25.0,2.0,30,0.6,12,None,50,Autumn,8,1,On-site
+S0018,Grilled Eggplant,side,"eggplant (50g), miso paste (5g)",40,1.0,5.0,1.0,10,0.3,1,soy,40,Summer,7,1,On-site
+S0019,Corn on the Cob,side,"corn (80g), butter (5g)",120,3.0,22.0,4.0,6,0.4,6,milk,50,Summer,9,1,On-site
+S0020,Fruit Salad,side,"apple (40g), orange (40g), banana (40g)",60,1.0,15.0,0.2,10,0.4,30,None,60,All,9,1,CK
+P0001,Miso Soup with Tofu,soup,"miso paste (15g), tofu (50g), wakame (5g), green onion (10g)",70,5.5,6.0,2.0,32,1.2,1,soy,50,Winter,8,1,On-site
+P0002,Clear Mushroom Soup,soup,"shiitake (30g), enoki (30g), kombu stock (200ml)",40,2.0,5.0,0.5,5,0.4,1,None,45,Autumn,8,1,On-site
+P0003,Pork and Vegetable Soup,soup,"pork (40g), daikon (40g), carrot (30g), miso paste (15g)",120,8.0,10.0,5.0,25,1.0,3,soy,70,Winter,9,1,On-site
+P0004,Nameko Miso Soup,soup,"nameko mushrooms (30g), tofu (30g), miso paste (15g)",60,4.0,6.0,2.0,25,0.6,1,soy,50,Autumn,8,1,On-site
+P0005,Vegetable Minestrone,soup,"tomato (40g), cabbage (30g), onion (30g), pasta (20g)",80,3.0,12.0,2.0,20,0.6,8,wheat,60,Winter,8,1,CK
+D0001,Seasonal Fruit Jelly,dessert,"agar (5g), orange juice (100ml), sugar (10g)",70,0.5,18.0,0.1,5,0.2,15,None,50,Summer,9,1,CK
+D0002,Matcha Pudding,dessert,"milk (100ml), matcha powder (3g), sugar (10g)",90,3.0,12.0,3.0,100,0.2,1,milk,60,Spring,8,1,CK
+D0003,Anmitsu,dessert,"agar jelly (20g), sweet red bean paste (30g), fruit mix (30g)",120,3.0,28.0,0.5,15,0.4,6,None,80,Summer,9,1,On-site
+D0004,Strawberry Yogurt,dessert,"yogurt (100g), strawberries (50g), sugar (5g)",90,4.0,15.0,2.0,120,0.2,25,milk,50,Spring,10,1,CK
+D0005,Kuzu Mochi,dessert,"kudzu starch (20g), sugar (10g), kinako powder (5g)",80,1.0,18.0,0.5,10,0.3,1,None,45,All,8,1,On-site
+R0001,Milk,drinks,"milk (200ml)",130,6.6,10.0,7.0,240,0.1,2,milk,40,All,10,1,On-site
+R0002,Green Tea,drinks,"green tea (200ml)",2,0.1,0.3,0,1,0.1,1,None,20,All,8,1,On-site
+R0003,Barley Tea,drinks,"barley tea (200ml)",0,0,0,0,0,0,0,None,15,Summer,8,1,On-site
+R0004,Apple Juice,drinks,"apple juice (200ml)",90,0.1,22.0,0.1,10,0.1,15,None,30,All,9,1,On-site
+R0005,Soy Milk,drinks,"soy milk (200ml)",100,6.0,8.0,4.0,80,0.2,1,soy,35,All,8,1,On-site
